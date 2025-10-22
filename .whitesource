@@ -29,7 +29,7 @@
     "enableRemediation": false,
     "enableSecretsScan": false,
     "incrementalScan": true,
-    "snippetSize": 0,
+    "snippetSize": 5,
     "baseBranches": []
   }
 }
